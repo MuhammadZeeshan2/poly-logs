@@ -1,0 +1,38 @@
+__pycache/
+alembic/
+venv/
+
+# Environment Variables
+.env
+
+# Virtual Environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+logs/
+*.log
+
+# Alembic migration files
+alembic/versions/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python package files
+*.egg-info/
+*.egg
+
+# Docker
+Dockerfile
+
+# Other config / temporary files
+Changelog.md
+README.md
+
+
